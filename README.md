@@ -31,6 +31,5 @@ best and worst performing campaigns.
 - Power BI Desktop
 - DAX
 - Data Modeling
-- GitHub
+  
 
-## 📂 Repository Structure
